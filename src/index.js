@@ -1,3 +1,3 @@
 import { createFakeContact } from './utils/createFakeContact.js';
 
-console.log(createFakeContact());
+// console.log(createFakeContact());
